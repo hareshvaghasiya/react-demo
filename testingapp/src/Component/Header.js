@@ -10,6 +10,7 @@ export default function Header() {
      
   return (
     <div className='headerPart'>
+      This is Good test!
       <nav>
         <ul>
           <li><Link to="/">Home</Link></li>
